@@ -1,0 +1,14 @@
+{
+    "name": "akibtanjim/google-translate",
+    "description": "This package is built for laravel with a view to translate any text from source language to destination language using Google Translate.",
+    "type": "laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "akibtanjim",
+            "email": "akibtanjim@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
