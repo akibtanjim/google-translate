@@ -13,7 +13,7 @@ Go to your ```composer.json``` file and paste the below line after **config** ar
 Install using composer:
 ```
 
-composer require "akibtanjim/google-translate":"*"
+composer require akibtanjim/google-translate
 
 ```
 
