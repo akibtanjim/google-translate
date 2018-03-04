@@ -3,11 +3,17 @@
 This package is built for laravel with a view to translate any text from source language to destination language using Google Translate.
 
 ## Installation
+Go to your ```composer.json``` file and paste the below line after **config** array if they don't exist :
+
+```
+    "minimum-stability": "dev",
+    "prefer-stable": true
+```   
 
 Install using composer:
 ```
 
-composer require akibtanjim/google-translate
+composer require "akibtanjim/google-translate":"*"
 
 ```
 
