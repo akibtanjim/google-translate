@@ -2,6 +2,8 @@
     "name": "akibtanjim/google-translate",
     "description": "This package is built for laravel with a view to translate any text from source language to destination language using Google Translate.",
     "type": "laravel",
+    "keywords": ["laravel","google-translate","free-google-translate"],
+    "homepage": "https://github.com/akibtanjim/google-translate",
     "license": "MIT",
     "authors": [
         {
@@ -10,5 +12,8 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "laravel/framework": ">=5.x",
+        "php":">= 7.1.3"
+    }
 }
