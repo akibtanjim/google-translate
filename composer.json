@@ -11,7 +11,8 @@
             "email": "akibtanjim@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "require": {
         "laravel/framework": ">=5.1",
         "php":">= 7.1.3"
