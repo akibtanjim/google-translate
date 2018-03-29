@@ -291,6 +291,7 @@ Open the follwing link in your browser and change the language and see translati
 ## Authors
 
 * **Akib Tanjim** - [akibtanjim](https://github.com/akibtanjim)
+* **Mohammad Rubab** - [rubab2020](https://github.com/rubab2020)
 
 ## Acknowledgments
 
